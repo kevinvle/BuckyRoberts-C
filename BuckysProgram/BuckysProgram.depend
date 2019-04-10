@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1547779831 source:/Users/KevinLe/Desktop/Programming/BuckysProgram/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1547772751 /Users/KevinLe/Desktop/Programming/BuckysProgram/BuckysInfo.h
+
+1551169052 source:/Users/KevinLe/Desktop/Programming/BuckysProgram/junk.c
+	<stdio.h>
+	<stdlib.h>
+
